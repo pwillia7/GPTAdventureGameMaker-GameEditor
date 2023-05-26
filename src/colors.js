@@ -1,0 +1,23 @@
+// Export an array of colors for your app
+export const colors = [
+  "#f0f8ff",
+  "#faebd7",
+  "#00ffff",
+  "#7fffd4",
+  "#f0ffff",
+  "#f5f5dc",
+  "#ffe4c4",
+  "#000000",
+  "#ffebcd",
+  "#0000ff",
+  "#8a2be2",
+  "#a52a2a",
+  "#deb887",
+  "#5f9ea0",
+  "#7fff00",
+  "#d2691e",
+  "#ff7f50",
+  "#6495ed",
+  "#fff8dc",
+  "#dc143c",
+];

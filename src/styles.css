@@ -1,0 +1,83 @@
+/* Save this file as style.css */
+
+/* Define some variables for colors */
+:root {
+    --title-color: #0078d4;
+    --author-color: #abc4ff;
+    --description-color: #c1d3fe;
+    --font-color: #d1d1d1;
+    --background-color: #edf2fb;
+    --text-color: #e2e2e2;
+    --id-color: #ccdbfd;
+    --scene-title-color: #b4009e;
+    --content-color:  #f0efeb;
+    --text-choice-color: #eac4d5;
+    --next-scene-color: #b8e0d2;
+  }
+  
+  /* Style the title widget */
+  .title-widget {
+    background-color: var(--title-color);
+    color: white;
+  }
+  
+  /* Style the author widget */
+  .author-widget {
+    background-color: var(--author-color);
+    color: white;
+  }
+  
+  /* Style the description widget */
+  .description-widget {
+    background-color: var(--description-color);
+    color: white;
+  }
+  
+  /* Style the font widget */
+  .font-widget {
+    background-color: var(--font-color);
+    color: white;
+  }
+  
+  /* Style the background widget */
+  .background-widget {
+    background-color: var(--background-color);
+    color: var(--font-color);
+  }
+  
+  /* Style the text widget */
+  .text-widget {
+    background-color: var(--text-color);
+    color: white;
+  }
+  
+  /* Style the id widget */
+  .id-widget {
+    background-color: var(--id-color);
+    color: white;
+  }
+  
+  /* Style the scene title widget */
+  .scene-title-widget {
+    background-color: var(--scene-title-color);
+    color: white;
+  }
+  
+  /* Style the content widget */
+  .content-widget {
+    background-color: var(--content-color);
+    color: white;
+  }
+  
+  /* Style the text choice widget */
+  .text-choice-widget {
+    background-color: var(--text-choice-color);
+    color: white;
+  }
+  
+  /* Style the next scene widget */
+  .next-scene-widget {
+    background-color: var(--next-scene-color);
+    color: white;
+  }
+  
